@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tea3/js-test-practice.git"
+    "url": "git+https://github.com/m-sugizaki/js-test-practice.git"
   },
   "devDependencies": {
     "eslint": "^4.2.0",
@@ -28,7 +28,7 @@
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/tea3/js-test-practice/issues"
+    "url": "https://github.com/m-sugizaki/js-test-practice/issues"
   },
-  "homepage": "https://github.com/tea3/js-test-practice#readme"
+  "homepage": "https://github.com/m-sugizaki/js-test-practice#readme"
 }
