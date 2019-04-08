@@ -20,11 +20,11 @@
     "url": "git+https://github.com/m-sugizaki/js-test-practice.git"
   },
   "devDependencies": {
-    "eslint": "^4.2.0",
-    "istanbul": "^0.4.5",
+    "eslint": "^5.16.0",
     "intelli-espower-loader": "^1.0.1",
-    "mocha": "^3.4.2",
-    "power-assert": "^1.4.4"
+    "istanbul": "^0.4.5",
+    "mocha": "^6.1.1",
+    "power-assert": "^1.6.1"
   },
   "dependencies": {},
   "bugs": {
